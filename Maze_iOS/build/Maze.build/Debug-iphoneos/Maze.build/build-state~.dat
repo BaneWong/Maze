@@ -1,0 +1,402 @@
+TMaze
+v7
+r0
+t330366697.743433
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Maze.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Info.plist Maze-Info.plist
+cCompileXIB /Users/hejiabin/Desktop/Maze/MainWindow.xib
+cProcessPCH /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bqfmnlkjatgcebccivuchsxkfdtp/Maze_Prefix.pch.gch Maze_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-egrrrvevngaprucavscggdcmjced/Maze_Prefix.pch.gch Maze_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/main.o /Users/hejiabin/Desktop/Maze/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/MazeAppDelegate.o /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/MazeView.o /Users/hejiabin/Desktop/Maze/Classes/MazeView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/main.o /Users/hejiabin/Desktop/Maze/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/MazeAppDelegate.o /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/MazeView.o /Users/hejiabin/Desktop/Maze/Classes/MazeView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/Maze normal armv6
+cLd /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/Maze normal armv7
+cCreateUniversalBinary /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Maze normal "armv6 armv7"
+cGenerateDSYMFile /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app.dSYM /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Maze
+cTouch /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze.xcent
+cCodeSign /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CADisplayLink.h
+c000000004D54D4960000000000000870
+t1297405078
+s2160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D608000000000026CB10
+t1297405448
+s2542352
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.h
+c000000004E008DC3000000000000013B
+t1308659139
+s315
+i<UIKit/UIKit.h>
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m
+c000000004E00C76500000000000009E6
+t1308673893
+s2534
+i"MazeAppDelegate.h"
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeView.h
+c000000004E009EC200000000000001AA
+t1308663490
+s426
+i<UIKit/UIKit.h>
+i<QuartzCore/CADisplayLink.h>
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeView.m
+c000000004E00B06400000000000005C1
+t1308668004
+s1473
+i"MazeView.h"
+
+N/Users/hejiabin/Desktop/Maze/MainWindow.xib
+c000000004E009FD90000000000007B69
+t1308663769
+s31593
+
+N/Users/hejiabin/Desktop/Maze/Maze_Prefix.pch
+c000000004E008DC300000000000000B1
+t1308659139
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app
+t1308673897
+s306
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app.dSYM
+t1308673897
+s102
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Info.plist
+t1308673895
+s828
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/MainWindow.nib
+t1308673895
+s4606
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Maze
+t1308673897
+s42452
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/PkgInfo
+t1308673895
+s8
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/ResourceRules.plist
+t1308673895
+s485
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze.xcent
+t1308673897
+s356
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/Maze
+t1308673897
+s17736
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/Maze.LinkFileList
+c000000004E00C767000000000000013B
+t1308673895
+s315
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/MazeAppDelegate.o
+t1308673896
+s49268
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/MazeView.o
+t1308673896
+s42784
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/main.o
+t1308673896
+s6428
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/Maze
+t1308673897
+s17876
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/Maze.LinkFileList
+c000000004E00C767000000000000013B
+t1308673895
+s315
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/MazeAppDelegate.o
+t1308673896
+s49212
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/MazeView.o
+t1308673896
+s42668
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/main.o
+t1308673896
+s6412
+
+N/Users/hejiabin/Desktop/Maze/main.m
+c000000004E008DC30000000000000163
+t1308659139
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bqfmnlkjatgcebccivuchsxkfdtp/Maze_Prefix.pch.gch
+t1308673896
+s10184604
+
+N/var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-egrrrvevngaprucavscggdcmjced/Maze_Prefix.pch.gch
+t1308673896
+s10647452
+
+NMaze-Info.plist
+c000000004E008DC3000000000000038D
+t1308659139
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330366695#330366695#0(0"0(0#1#0"8622322368#0"0#
+
+CCodeSign /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app
+s330366697.534259
+e330366697.743400
+r1
+xCodeSign
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app
+lSLF07#2@38"CodeSign build/Debug-iphoneos/Maze.app330366697#330366697#0(0"0(0#0#58"/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app8622206848#566"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer" --resource-rules=/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/ResourceRules.plist --entitlements /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze.xcent /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app0#
+
+CCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/MazeAppDelegate.o /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330366696.703460
+e330366696.824359
+r1
+xCompileC
+xbuild/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/MazeAppDelegate.o
+x/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m330366696#330366696#0(0"0(0#0#54"/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m8620569184#1584"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -I/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources/armv6 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bqfmnlkjatgcebccivuchsxkfdtp/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/MazeAppDelegate.o0#
+
+CCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/MazeView.o /Users/hejiabin/Desktop/Maze/Classes/MazeView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330366696.704213
+e330366696.825832
+r1
+xCompileC
+xbuild/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/MazeView.o
+x/Users/hejiabin/Desktop/Maze/Classes/MazeView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/hejiabin/Desktop/Maze/Classes/MazeView.m330366696#330366696#0(0"0(0#0#47"/Users/hejiabin/Desktop/Maze/Classes/MazeView.m8622716576#1570"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -I/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources/armv6 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bqfmnlkjatgcebccivuchsxkfdtp/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/Classes/MazeView.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/MazeView.o0#
+
+CCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/main.o /Users/hejiabin/Desktop/Maze/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330366696.702615
+e330366696.817301
+r1
+xCompileC
+xbuild/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/main.o
+x/Users/hejiabin/Desktop/Maze/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/hejiabin/Desktop/Maze/main.m330366696#330366696#0(0"0(0#0#35"/Users/hejiabin/Desktop/Maze/main.m8621632768#1554"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -I/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources/armv6 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bqfmnlkjatgcebccivuchsxkfdtp/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/main.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/MazeAppDelegate.o /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330366696.817664
+e330366696.882931
+r1
+xCompileC
+xbuild/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/MazeAppDelegate.o
+x/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m330366696#330366696#0(0"0(0#0#54"/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m8621791616#1584"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -I/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources/armv7 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-egrrrvevngaprucavscggdcmjced/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/MazeAppDelegate.o0#
+
+CCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/MazeView.o /Users/hejiabin/Desktop/Maze/Classes/MazeView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330366696.819452
+e330366696.883246
+r1
+xCompileC
+xbuild/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/MazeView.o
+x/Users/hejiabin/Desktop/Maze/Classes/MazeView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/hejiabin/Desktop/Maze/Classes/MazeView.m330366696#330366696#0(0"0(0#0#47"/Users/hejiabin/Desktop/Maze/Classes/MazeView.m8621213792#1570"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -I/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources/armv7 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-egrrrvevngaprucavscggdcmjced/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/Classes/MazeView.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/MazeView.o0#
+
+CCompileC build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/main.o /Users/hejiabin/Desktop/Maze/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330366696.705220
+e330366696.817566
+r1
+xCompileC
+xbuild/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/main.o
+x/Users/hejiabin/Desktop/Maze/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/hejiabin/Desktop/Maze/main.m330366696#330366696#0(0"0(0#0#35"/Users/hejiabin/Desktop/Maze/main.m8622543072#1554"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -I/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources/armv7 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-egrrrvevngaprucavscggdcmjced/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/main.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/hejiabin/Desktop/Maze/MainWindow.xib
+s330366695.346435
+e330366695.719736
+r1
+xCompileXIB
+x/Users/hejiabin/Desktop/Maze/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib330366695#330366695#0(0"0(0#0#43"/Users/hejiabin/Desktop/Maze/MainWindow.xib8621437568#509"    cd /Users/hejiabin/Desktop/Maze    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/MainWindow.nib /Users/hejiabin/Desktop/Maze/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/Maze.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s330366695.342202
+e330366695.346364
+r1
+xCpResource
+xbuild/Debug-iphoneos/Maze.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist330366695#330366695#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8621807712#471"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app0#
+
+CCreateUniversalBinary /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Maze normal "armv6 armv7"
+s330366697.454226
+e330366697.468203
+r1
+xCreateUniversalBinary
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Maze
+xnormal
+xarmv6 armv7
+lSLF07#2@77"CreateUniversalBinary build/Debug-iphoneos/Maze.app/Maze normal "armv6 armv7"330366697#330366697#0(0"0(0#0#40"/Users/hejiabin/Desktop/Maze/armv6 armv78617797088#454"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/Maze /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/Maze -output /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Maze0#
+
+CGenerateDSYMFile /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app.dSYM /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Maze
+s330366697.468284
+e330366697.519964
+r1
+xGenerateDSYMFile
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app.dSYM
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Maze
+lSLF07#2@86"GenerateDSYMFile build/Debug-iphoneos/Maze.app.dSYM build/Debug-iphoneos/Maze.app/Maze330366697#330366697#0(0"0(0#0#63"/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Maze8616707168#323"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Maze -o /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app.dSYM0#
+
+CLd /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/Maze normal armv6
+s330366696.826067
+e330366697.454155
+r1
+xLd
+x/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/Maze
+xnormal
+xarmv6
+lSLF07#2@102"Link /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/Maze330366696#330366697#0(0"0(0#0#0"8621041024#813"    cd /Users/hejiabin/Desktop/Maze    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -F/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -filelist /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/Maze.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv6/Maze0#
+
+CLd /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/Maze normal armv7
+s330366696.883345
+e330366697.453775
+r1
+xLd
+x/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/Maze
+xnormal
+xarmv7
+lSLF07#2@102"Link /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/Maze330366696#330366697#0(0"0(0#0#0"8619010432#813"    cd /Users/hejiabin/Desktop/Maze    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -F/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -filelist /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/Maze.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Objects-normal/armv7/Maze0#
+
+CProcessInfoPlistFile /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Info.plist Maze-Info.plist
+s330366695.342920
+e330366695.346141
+r1
+xProcessInfoPlistFile
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Info.plist
+xMaze-Info.plist
+lSLF07#2@23"Process Maze-Info.plist330366695#330366695#0(0"0(0#0#44"/Users/hejiabin/Desktop/Maze/Maze-Info.plist8621659552#510"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Maze-Info.plist -genpkginfo /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/ResourceRules.plist -o /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app/Info.plist0#
+
+CProcessPCH /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bqfmnlkjatgcebccivuchsxkfdtp/Maze_Prefix.pch.gch Maze_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330366695.719860
+e330366696.535124
+r1
+xProcessPCH
+x/var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bqfmnlkjatgcebccivuchsxkfdtp/Maze_Prefix.pch.gch
+xMaze_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Maze_Prefix.pch330366695#330366696#0(0"0(0#0#44"/Users/hejiabin/Desktop/Maze/Maze_Prefix.pch8622737248#1465"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -I/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources/armv6 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources -c /Users/hejiabin/Desktop/Maze/Maze_Prefix.pch -o /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bqfmnlkjatgcebccivuchsxkfdtp/Maze_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-egrrrvevngaprucavscggdcmjced/Maze_Prefix.pch.gch Maze_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330366695.720571
+e330366696.702527
+r1
+xProcessPCH
+x/var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-egrrrvevngaprucavscggdcmjced/Maze_Prefix.pch.gch
+xMaze_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Maze_Prefix.pch330366695#330366696#0(0"0(0#0#44"/Users/hejiabin/Desktop/Maze/Maze_Prefix.pch8622649824#1465"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos -I/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources/armv7 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/DerivedSources -c /Users/hejiabin/Desktop/Maze/Maze_Prefix.pch -o /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-egrrrvevngaprucavscggdcmjced/Maze_Prefix.pch.gch0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze.xcent
+s330366697.522215
+e330366697.534206
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze.xcent
+lSLF07#2@166"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/Maze.build/Debug-iphoneos/Maze.build/Maze.xcent330366697#330366697#0(0"0(0#0#82"/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze.xcent8601736704#403"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphoneos/Maze.build/Maze.xcent0#
+
+CTouch /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app
+s330366697.520150
+e330366697.522148
+r1
+xTouch
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app
+lSLF07#2@64"Touch /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app330366697#330366697#0(0"0(0#0#0"8614385728#241"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/hejiabin/Desktop/Maze/build/Debug-iphoneos/Maze.app0#
+

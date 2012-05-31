@@ -1,0 +1,330 @@
+TMaze
+v7
+r0
+t330537880.599288
+cCheck dependencies
+cProcessInfoPlistFile /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Info.plist Maze-Info.plist
+cCompileXIB /Users/hejiabin/Desktop/Maze/MainWindow.xib
+cCpResource build/Release-iphonesimulator/Maze.app/down.png down.png
+cCpResource build/Release-iphonesimulator/Maze.app/left.png left.png
+cCpResource build/Release-iphonesimulator/Maze.app/right.png right.png
+cCpResource build/Release-iphonesimulator/Maze.app/up.png up.png
+cProcessPCH /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-dmkymktmztsecvfbigfdpglrgrun/Maze_Prefix.pch.gch Maze_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/main.o /Users/hejiabin/Desktop/Maze/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/MazeAppDelegate.o /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/MazeView.o /Users/hejiabin/Desktop/Maze/Classes/MazeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze normal i386
+cGenerateDSYMFile /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app.dSYM /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze
+cTouch /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CADisplayLink.h
+c000000004D54D2DF0000000000000870
+t1297404639
+s2160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.h
+c000000004E008DC3000000000000013B
+t1308659139
+s315
+i<UIKit/UIKit.h>
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m
+c000000004E00C76500000000000009E6
+t1308673893
+s2534
+i"MazeAppDelegate.h"
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeLogic.h
+c000000004E033C0E0000000000003328
+t1308834830
+s13096
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeView.h
+c000000004E032DA800000000000002FC
+t1308831144
+s764
+i<UIKit/UIKit.h>
+i<QuartzCore/CADisplayLink.h>
+i"MazeLogic.h"
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeView.m
+c000000004E034F2900000000000033A5
+t1308839721
+s13221
+i"MazeView.h"
+
+N/Users/hejiabin/Desktop/Maze/MainWindow.xib
+c000000004E03423D000000000000853A
+t1308836413
+s34106
+
+N/Users/hejiabin/Desktop/Maze/Maze_Prefix.pch
+c000000004E008DC300000000000000B1
+t1308659139
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/Maze.LinkFileList
+c000000004E0364170000000000000153
+t1308845079
+s339
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/MazeAppDelegate.o
+t1308845080
+s49400
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/MazeView.o
+t1308845080
+s75632
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/main.o
+t1308845080
+s6276
+
+N/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app
+t1308845080
+s340
+
+N/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app.dSYM
+t1308845080
+s102
+
+N/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Info.plist
+t1308845079
+s638
+
+N/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/MainWindow.nib
+t1308845079
+s4895
+
+N/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze
+t1308845080
+s36408
+
+N/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/PkgInfo
+t1308845079
+s8
+
+N/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/down.png
+t1308845079
+s559
+
+N/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/left.png
+t1308845079
+s663
+
+N/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/right.png
+t1308845079
+s672
+
+N/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/up.png
+t1308845079
+s611
+
+N/Users/hejiabin/Desktop/Maze/down.png
+c000000004E0099CC000000000000022F
+t1308662220
+s559
+
+N/Users/hejiabin/Desktop/Maze/left.png
+c000000004E0099DB0000000000000297
+t1308662235
+s663
+
+N/Users/hejiabin/Desktop/Maze/main.m
+c000000004E008DC30000000000000163
+t1308659139
+s355
+i<UIKit/UIKit.h>
+
+N/Users/hejiabin/Desktop/Maze/right.png
+c000000004E0099FA00000000000002A0
+t1308662266
+s672
+
+N/Users/hejiabin/Desktop/Maze/up.png
+c000000004E0099EA0000000000000263
+t1308662250
+s611
+
+N/var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-dmkymktmztsecvfbigfdpglrgrun/Maze_Prefix.pch.gch
+t1308845080
+s15461808
+
+NMaze-Info.plist
+c000000004E03588500000000000003DE
+t1308842117
+s990
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330537879#330537879#0(0"0(0#1#0"8612250848#0"0#
+
+CCompileC build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/MazeAppDelegate.o /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330537880.302373
+e330537880.382818
+r1
+xCompileC
+xbuild/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/MazeAppDelegate.o
+x/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m330537880#330537880#0(0"0(0#0#54"/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m8612032096#1833"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator -I/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/DerivedSources/i386 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-dmkymktmztsecvfbigfdpglrgrun/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/MazeAppDelegate.o0#
+
+CCompileC build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/MazeView.o /Users/hejiabin/Desktop/Maze/Classes/MazeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330537880.303670
+e330537880.565768
+r1
+xCompileC
+xbuild/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/MazeView.o
+x/Users/hejiabin/Desktop/Maze/Classes/MazeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/hejiabin/Desktop/Maze/Classes/MazeView.m330537880#330537880#0(0"0(0#0#47"/Users/hejiabin/Desktop/Maze/Classes/MazeView.m8611424256#1819"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator -I/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/DerivedSources/i386 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-dmkymktmztsecvfbigfdpglrgrun/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/Classes/MazeView.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/MazeView.o0#
+
+CCompileC build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/main.o /Users/hejiabin/Desktop/Maze/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330537880.301307
+e330537880.347196
+r1
+xCompileC
+xbuild/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/main.o
+x/Users/hejiabin/Desktop/Maze/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/hejiabin/Desktop/Maze/main.m330537880#330537880#0(0"0(0#0#35"/Users/hejiabin/Desktop/Maze/main.m8612411872#1803"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator -I/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/DerivedSources/i386 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-dmkymktmztsecvfbigfdpglrgrun/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/main.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/hejiabin/Desktop/Maze/MainWindow.xib
+s330537879.302141
+e330537879.687320
+r1
+xCompileXIB
+x/Users/hejiabin/Desktop/Maze/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib330537879#330537879#0(0"0(0#0#43"/Users/hejiabin/Desktop/Maze/MainWindow.xib8611821120#539"    cd /Users/hejiabin/Desktop/Maze    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/MainWindow.nib /Users/hejiabin/Desktop/Maze/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Release-iphonesimulator/Maze.app/down.png down.png
+s330537879.302678
+e330537879.307396
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Maze.app/down.png
+xdown.png
+lSLF07#2@13"Copy down.png330537879#330537879#0(0"0(0#0#37"/Users/hejiabin/Desktop/Maze/down.png8611520448#456"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/hejiabin/Desktop/Maze/down.png /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app0#
+
+CCpResource build/Release-iphonesimulator/Maze.app/left.png left.png
+s330537879.303160
+e330537879.307800
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Maze.app/left.png
+xleft.png
+lSLF07#2@13"Copy left.png330537879#330537879#0(0"0(0#0#37"/Users/hejiabin/Desktop/Maze/left.png8611439328#456"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/hejiabin/Desktop/Maze/left.png /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app0#
+
+CCpResource build/Release-iphonesimulator/Maze.app/right.png right.png
+s330537879.303827
+e330537879.309290
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Maze.app/right.png
+xright.png
+lSLF07#2@14"Copy right.png330537879#330537879#0(0"0(0#0#38"/Users/hejiabin/Desktop/Maze/right.png8611107392#457"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/hejiabin/Desktop/Maze/right.png /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app0#
+
+CCpResource build/Release-iphonesimulator/Maze.app/up.png up.png
+s330537879.304530
+e330537879.310847
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Maze.app/up.png
+xup.png
+lSLF07#2@11"Copy up.png330537879#330537879#0(0"0(0#0#35"/Users/hejiabin/Desktop/Maze/up.png8610994912#454"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/hejiabin/Desktop/Maze/up.png /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app0#
+
+CGenerateDSYMFile /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app.dSYM /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze
+s330537880.585285
+e330537880.597225
+r1
+xGenerateDSYMFile
+x/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app.dSYM
+x/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze
+lSLF07#2@104"GenerateDSYMFile build/Release-iphonesimulator/Maze.app.dSYM build/Release-iphonesimulator/Maze.app/Maze330537880#330537880#0(0"0(0#0#72"/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze8611037120#348"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze -o /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app.dSYM0#
+
+CLd /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze normal i386
+s330537880.565840
+e330537880.585125
+r1
+xLd
+x/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze
+xnormal
+xi386
+lSLF07#2@77"Link /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze330537880#330537880#0(0"0(0#0#0"8611094304#865"    cd /Users/hejiabin/Desktop/Maze    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator -F/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator -filelist /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Objects-normal/i386/Maze.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Maze0#
+
+CProcessInfoPlistFile /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Info.plist Maze-Info.plist
+s330537879.298692
+e330537879.302045
+r1
+xProcessInfoPlistFile
+x/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Info.plist
+xMaze-Info.plist
+lSLF07#2@23"Process Maze-Info.plist330537879#330537879#0(0"0(0#0#44"/Users/hejiabin/Desktop/Maze/Maze-Info.plist8611547488#444"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Maze-Info.plist -genpkginfo /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app/Info.plist0#
+
+CProcessPCH /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-dmkymktmztsecvfbigfdpglrgrun/Maze_Prefix.pch.gch Maze_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330537879.687434
+e330537880.301204
+r1
+xProcessPCH
+x/var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-dmkymktmztsecvfbigfdpglrgrun/Maze_Prefix.pch.gch
+xMaze_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Maze_Prefix.pch330537879#330537880#0(0"0(0#0#44"/Users/hejiabin/Desktop/Maze/Maze_Prefix.pch8612443680#1706"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator -I/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/DerivedSources/i386 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Release-iphonesimulator/Maze.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/hejiabin/Desktop/Maze/Maze_Prefix.pch -o /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-dmkymktmztsecvfbigfdpglrgrun/Maze_Prefix.pch.gch0#
+
+CTouch /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app
+s330537880.597296
+e330537880.599257
+r1
+xTouch
+x/Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app
+lSLF07#2@73"Touch /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app330537880#330537880#0(0"0(0#0#0"8610954752#257"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/hejiabin/Desktop/Maze/build/Release-iphonesimulator/Maze.app0#
+

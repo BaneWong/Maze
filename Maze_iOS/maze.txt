@@ -1,0 +1,78 @@
+
+void loseShow()//Ê§°Ü»­Ãæ
+{
+ 	drawBlock(72,56,edgeMini,false);
+ 	flush();
+ 	delay(100);
+ 	drawFrame(64,48,96,80,false);
+ 	flush();
+ 	delay(100);
+ 	drawFrame(48,44,112,84,false);
+ 	drawBlock(56,56,ni,false);
+ 	drawBlock(72,56,shu,false);
+ 	drawBlock(88,56,le,false);
+ 	flush();
+ 	delay(1000);
+}
+
+void endShow()//½áÊø»­Ãæ
+{
+ 	int i;
+ 	int j;
+ 	
+ 	for(i=0;i<8;i++)
+ 	{
+ 	 	for(j=0;j<15;j++)
+ 	 	{
+ 	 	 	drawBlock(j*16,i*16,blank,true);
+ 	 	 	flush();
+ 	 	 	delay(10);
+ 	 	}
+ 	}
+ 	delay(300);
+ 	drawBlock(60,40,cheng,true);
+ 	flush();
+ 	delay(500);
+ 	drawBlock(76,40,xu,true);
+ 	flush();
+ 	delay(500);
+ 	drawBlock(120,40,he,true);
+ 	flush();
+ 	delay(500);
+ 	drawBlock(136,40,jia,true);
+ 	flush();
+ 	delay(500);
+ 	drawBlock(152,40,bin,true);
+ 	flush();
+ 	delay(800);
+ 	drawBlock(60,60,ying2,true);
+ 	flush();
+ 	delay(500);
+ 	drawBlock(76,60,jian,true);
+ 	flush();
+ 	delay(500);
+ 	drawBlock(120,60,gan,true);
+ 	flush();
+ 	delay(500);
+ 	drawBlock(136,60,lu,true);
+ 	flush();
+ 	delay(500);
+ 	drawBlock(152,60,cheng,true);
+ 	flush();
+}
+
+int main()
+{
+ 	while(1)
+ 	{
+ 	 	for(i=0;i<8;i++)
+ 	 	{
+ 	 	 	drawBlock(0,i*16,wall,i%2?flag:!flag);
+ 	 	 	drawBlock(224,i*16,wall,i%2?flag:!flag);
+ 	 	}
+ 	 	flush();
+ 	 	delay(800);
+ 	 	flag=!flag;
+ 	}
+}
+

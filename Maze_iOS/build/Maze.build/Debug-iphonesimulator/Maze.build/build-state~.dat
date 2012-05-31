@@ -1,0 +1,377 @@
+TMaze
+v7
+r0
+t330447165.606386
+cCheck dependencies
+cProcessInfoPlistFile /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Info.plist Maze-Info.plist
+cCompileXIB /Users/hejiabin/Desktop/Maze/MainWindow.xib
+cProcessPCH /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bztjsqqigbeiliakhxlvuzxkmnaw/Maze_Prefix.pch.gch Maze_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/main.o /Users/hejiabin/Desktop/Maze/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/MazeAppDelegate.o /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/MazeView.o /Users/hejiabin/Desktop/Maze/Classes/MazeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CADisplayLink.h
+c000000004D54D2DF0000000000000870
+t1297404639
+s2160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/hejiabin/Desktop/Maze/../down.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/../left.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/../right.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/../up.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.h
+c000000004E008DC3000000000000013B
+t1308659139
+s315
+i<UIKit/UIKit.h>
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m
+c000000004E00C76500000000000009E6
+t1308673893
+s2534
+i"MazeAppDelegate.h"
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeLogic.h
+c000000004E00C9F400000000000000AF
+t1308674548
+s175
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeView.h
+c000000004E01F6B7000000000000021F
+t1308751543
+s543
+i<UIKit/UIKit.h>
+i<QuartzCore/CADisplayLink.h>
+i"MazeLogic.h"
+
+N/Users/hejiabin/Desktop/Maze/Classes/MazeView.m
+c000000004E0201B10000000000000AE9
+t1308754353
+s2793
+i"MazeView.h"
+
+N/Users/hejiabin/Desktop/Maze/MainWindow.xib
+c000000004E009FD90000000000007B69
+t1308663769
+s31593
+
+N/Users/hejiabin/Desktop/Maze/Maze_Prefix.pch
+c000000004E008DC300000000000000B1
+t1308659139
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app.dSYM
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Info.plist
+t1308754363
+s579
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/MainWindow.nib
+t1308754364
+s4606
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Maze
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/PkgInfo
+t1308754363
+s8
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/down.png
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/left.png
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/right.png
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/up.png
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/Maze.LinkFileList
+c000000004E0201BB000000000000014D
+t1308754363
+s333
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/MazeAppDelegate.o
+t1308754365
+s49672
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/MazeView.o
+t2
+s0
+
+N/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/main.o
+t1308754365
+s6292
+
+N/Users/hejiabin/Desktop/Maze/main.m
+c000000004E008DC30000000000000163
+t1308659139
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bztjsqqigbeiliakhxlvuzxkmnaw/Maze_Prefix.pch.gch
+t1308754365
+s15814064
+
+NMaze-Info.plist
+c000000004E008DC3000000000000038D
+t1308659139
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330447163#330447163#0(0"0(0#1#0"8622378944#0"0#
+
+CCompileC build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/MazeAppDelegate.o /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330447165.532060
+e330447165.606216
+r1
+xCompileC
+xbuild/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/MazeAppDelegate.o
+x/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m330447165#330447165#0(0"0(0#0#54"/Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m8617440320#1774"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator -I/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/DerivedSources/i386 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/DerivedSources -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bztjsqqigbeiliakhxlvuzxkmnaw/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/Classes/MazeAppDelegate.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/MazeAppDelegate.o0#
+
+CCompileC build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/MazeView.o /Users/hejiabin/Desktop/Maze/Classes/MazeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330447165.533009
+e330447165.578439
+r0
+xCompileC
+xbuild/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/MazeView.o
+x/Users/hejiabin/Desktop/Maze/Classes/MazeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hejiabin/Desktop/Maze/Classes/MazeView.m: In function '-[MazeView createBuffer]':
+o/Users/hejiabin/Desktop/Maze/Classes/MazeView.m:75: error: 'kCGColorSpaceGenericRGB' is unavailable (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGColorSpace.h:45)
+o{standard input}:212:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000003$pb"
+o{standard input}:212:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:177:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"
+o{standard input}:177:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:171:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+o{standard input}:171:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:168:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000002$pb"
+o{standard input}:168:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:165:non-relocatable subtraction expression, "L_NSDefaultRunLoopMode$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:165:symbol: "L_NSDefaultRunLoopMode$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:159:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:159:symbol: "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:151:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"
+o{standard input}:151:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:145:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:145:symbol: "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:135:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"
+o{standard input}:135:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:132:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:132:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:129:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000002$pb"
+o{standard input}:129:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:124:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:124:symbol: "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:117:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:117:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:104:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:104:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:100:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"
+o{standard input}:100:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_NSDefaultRunLoopMode$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+lSLF07#2@55"Compile /Users/hejiabin/Desktop/Maze/Classes/MazeView.m330447165#330447165#0(5369"/Users/hejiabin/Desktop/Maze/Classes/MazeView.m: In function '-[MazeView createBuffer]':/Users/hejiabin/Desktop/Maze/Classes/MazeView.m:75: error: 'kCGColorSpaceGenericRGB' is unavailable (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGColorSpace.h:45){standard input}:212:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000003$pb"{standard input}:212:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:177:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"{standard input}:177:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:171:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"{standard input}:171:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:168:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000002$pb"{standard input}:168:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:165:non-relocatable subtraction expression, "L_NSDefaultRunLoopMode$non_lazy_ptr" minus "L00000000002$pb"{standard input}:165:symbol: "L_NSDefaultRunLoopMode$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:159:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" minus "L00000000002$pb"{standard input}:159:symbol: "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:151:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"{standard input}:151:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:145:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" minus "L00000000002$pb"{standard input}:145:symbol: "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:135:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"{standard input}:135:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:132:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:132:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:129:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000002$pb"{standard input}:129:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:124:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" minus "L00000000002$pb"{standard input}:124:symbol: "L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:117:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"{standard input}:117:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:104:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"{standard input}:104:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:100:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"{standard input}:100:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MazeView.m_tick$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_NSDefaultRunLoopMode$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_81(4@213"'kCGColorSpaceGenericRGB' is unavailable (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGColorSpace.h:45)330447165#89#273#0(6@47"/Users/hejiabin/Desktop/Maze/Classes/MazeView.m330447153#75#0#75#0#0"0(0#0#47"/Users/hejiabin/Desktop/Maze/Classes/MazeView.m8628241024#1760"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator -I/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/DerivedSources/i386 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/DerivedSources -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bztjsqqigbeiliakhxlvuzxkmnaw/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/Classes/MazeView.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/MazeView.o1#
+
+CCompileC build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/main.o /Users/hejiabin/Desktop/Maze/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330447165.531054
+e330447165.582702
+r1
+xCompileC
+xbuild/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/main.o
+x/Users/hejiabin/Desktop/Maze/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/hejiabin/Desktop/Maze/main.m330447165#330447165#0(0"0(0#0#35"/Users/hejiabin/Desktop/Maze/main.m8621320416#1744"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator -I/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/DerivedSources/i386 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/DerivedSources -include /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bztjsqqigbeiliakhxlvuzxkmnaw/Maze_Prefix.pch -c /Users/hejiabin/Desktop/Maze/main.m -o /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/hejiabin/Desktop/Maze/MainWindow.xib
+s330447163.717133
+e330447164.465076
+r1
+xCompileXIB
+x/Users/hejiabin/Desktop/Maze/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib330447163#330447164#0(0"0(0#0#43"/Users/hejiabin/Desktop/Maze/MainWindow.xib8621700192#537"    cd /Users/hejiabin/Desktop/Maze    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/MainWindow.nib /Users/hejiabin/Desktop/Maze/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Maze.app/down.png ../down.png
+s330366353.000876
+e330366353.009611
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/Maze.app/down.png
+x../down.png
+opbxcp: down.png: No such file or directory
+lSLF07#2@16"Copy ../down.png330366353#330366353#0(43"pbxcp: down.png: No such file or directory1(4@42"pbxcp: down.png: No such file or directory330366353#18446744073709551615#0#0(6@0"330366353#0#0#0#0#0"0(0#0#40"/Users/hejiabin/Desktop/Maze/../down.png8615386752#436"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hejiabin/Desktop/Maze/../down.png /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app1#
+
+CCpResource build/Debug-iphonesimulator/Maze.app/left.png ../left.png
+s330366353.001638
+e330366353.009762
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/Maze.app/left.png
+x../left.png
+opbxcp: left.png: No such file or directory
+lSLF07#2@16"Copy ../left.png330366353#330366353#0(43"pbxcp: left.png: No such file or directory1(4@42"pbxcp: left.png: No such file or directory330366353#18446744073709551615#0#0(6@0"330366353#0#0#0#0#0"0(0#0#40"/Users/hejiabin/Desktop/Maze/../left.png8614835552#436"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hejiabin/Desktop/Maze/../left.png /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app1#
+
+CCpResource build/Debug-iphonesimulator/Maze.app/right.png ../right.png
+s330366353.002397
+e330366353.010526
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/Maze.app/right.png
+x../right.png
+opbxcp: right.png: No such file or directory
+lSLF07#2@17"Copy ../right.png330366353#330366353#0(44"pbxcp: right.png: No such file or directory1(4@43"pbxcp: right.png: No such file or directory330366353#18446744073709551615#0#0(6@0"330366353#0#0#0#0#0"0(0#0#41"/Users/hejiabin/Desktop/Maze/../right.png8613920768#437"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hejiabin/Desktop/Maze/../right.png /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app1#
+
+CCpResource build/Debug-iphonesimulator/Maze.app/up.png ../up.png
+s330366353.003145
+e330366353.010858
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/Maze.app/up.png
+x../up.png
+opbxcp: up.png: No such file or directory
+lSLF07#2@14"Copy ../up.png330366353#330366353#0(41"pbxcp: up.png: No such file or directory1(4@40"pbxcp: up.png: No such file or directory330366353#18446744073709551615#0#0(6@0"330366353#0#0#0#0#0"0(0#0#38"/Users/hejiabin/Desktop/Maze/../up.png8621287456#434"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hejiabin/Desktop/Maze/../up.png /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app1#
+
+CGenerateDSYMFile /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app.dSYM /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Maze
+s330444935.098049
+e330444935.169266
+r1
+xGenerateDSYMFile
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app.dSYM
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Maze
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Maze.app.dSYM build/Debug-iphonesimulator/Maze.app/Maze330444935#330444935#0(0"0(0#0#70"/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Maze8628064992#344"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Maze -o /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app.dSYM0#
+
+CLd /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Maze normal i386
+s330444934.946346
+e330444935.097878
+r1
+xLd
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Maze
+xnormal
+xi386
+lSLF07#2@75"Link /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Maze330444934#330444935#0(0"0(0#0#0"8621730944#857"    cd /Users/hejiabin/Desktop/Maze    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator -F/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator -filelist /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Objects-normal/i386/Maze.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Maze0#
+
+CProcessInfoPlistFile /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Info.plist Maze-Info.plist
+s330447163.714153
+e330447163.717039
+r1
+xProcessInfoPlistFile
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Info.plist
+xMaze-Info.plist
+lSLF07#2@23"Process Maze-Info.plist330447163#330447163#0(0"0(0#0#44"/Users/hejiabin/Desktop/Maze/Maze-Info.plist8622979072#440"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Maze-Info.plist -genpkginfo /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app/Info.plist0#
+
+CProcessPCH /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bztjsqqigbeiliakhxlvuzxkmnaw/Maze_Prefix.pch.gch Maze_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330447164.465176
+e330447165.530856
+r1
+xProcessPCH
+x/var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bztjsqqigbeiliakhxlvuzxkmnaw/Maze_Prefix.pch.gch
+xMaze_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Maze_Prefix.pch330447164#330447165#0(0"0(0#0#44"/Users/hejiabin/Desktop/Maze/Maze_Prefix.pch8627983200#1649"    cd /Users/hejiabin/Desktop/Maze    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-generated-files.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-own-target-headers.hmap -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-all-target-headers.hmap -iquote /Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/Maze-project-headers.hmap -F/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator -I/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/include -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/DerivedSources/i386 -I/Users/hejiabin/Desktop/Maze/build/Maze.build/Debug-iphonesimulator/Maze.build/DerivedSources -c /Users/hejiabin/Desktop/Maze/Maze_Prefix.pch -o /var/folders/i4/i483sKuXEY8f2-+QJ+vo0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maze_Prefix-bztjsqqigbeiliakhxlvuzxkmnaw/Maze_Prefix.pch.gch0#
+
+CTouch /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app
+s330444935.175222
+e330444935.186361
+r1
+xTouch
+x/Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app
+lSLF07#2@71"Touch /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app330444935#330444935#0(0"0(0#0#0"8623214816#255"    cd /Users/hejiabin/Desktop/Maze    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/hejiabin/Desktop/Maze/build/Debug-iphonesimulator/Maze.app0#
+
